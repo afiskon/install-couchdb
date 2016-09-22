@@ -8,7 +8,7 @@ Usage:
 mkdir temp
 cd temp
 wget https://raw.githubusercontent.com/afiskon/install-couchdb/master/install-couchdb.sh
-./inalll-couchdb.sh
+sh install-couchdb.sh
 # then see http://localhost:5984/_utils/
 ```
 
