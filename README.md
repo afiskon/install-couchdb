@@ -1,6 +1,6 @@
 # install-couchdb
 
-Simple CouchDB 2.0 installation script
+Simple CouchDB 2.x installation script
 
 Usage:
 
